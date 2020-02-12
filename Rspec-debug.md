@@ -30,9 +30,6 @@
 ```
 
 **The above steps you only have to do it once, next time you can just select the config "Debug Local File" or  from dropdown menu when you open the `launch.json`**
-5. Add a breakpoint somewhere in your ruby file (click on the left of the line you want to start debugging with, and there will be red dot), Open the ruby / Rspec file you want to debug on, and then click on the bug icon on left bar
-6. Make sure your code has an example rather than just definition, such as `p foo()`, and then click on the green arrow next to "DEBUG AND RUN" or press F5. Then you can start doing things like "next" "step" "continue"
 
-
-
-
+ 5. Add a breakpoint somewhere in your ruby file (click on the left of the line you want to start debugging with, and there will be red dot), Open the ruby / Rspec file you want to debug on, and then click on the bug icon on left bar
+ 6. Make sure your code has an example rather than just definition, such as `p foo()`, and then click on the green arrow next to "DEBUG AND RUN" or press F5. Then you can start doing things like "next" "step" "continue"
