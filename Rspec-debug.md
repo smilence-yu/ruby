@@ -4,7 +4,7 @@
  2. `gem install ruby-debug-ide` in any terminal
  3. Click on the bug icon (4th icon) in left bar, and click on the link to "create a launch.json file"
  4. Paste the following into the json file:
-```JSON
+```
 {
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
