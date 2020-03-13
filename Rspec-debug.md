@@ -29,11 +29,13 @@
     ]
 },
 ```
-
 **The above steps you only have to do it once, next time you can just select the config "Debug Current File" or "Debug RSpec"**
-5. Open the ruby / Rspec file you want to debug on, and then click on the bug icon on left bar (the 4th one)
-6. If you are debugging with ruby file instead of rSpec, ,ake sure your code has an example rather than just definition, such as `p foo()`, and then click on the green arrow next to "DEBUG AND RUN" or just press F5 anytime. 
-7. You can also add a breakpoint somewhere in your ruby file (click on the left of the line you want to start debugging with, and there will be red dot). Then you can start doing things like "next" "step" "continue"
+
+6. Open the ruby / Rspec file you want to debug on, and then click on the bug icon on left bar (the 4th one)
+
+7. If you are debugging with ruby file instead of rSpec, ,ake sure your code has an example rather than just definition, such as `p foo()`, and then click on the green arrow next to "DEBUG AND RUN" or just press F5 anytime. 
+
+8. You can also add a breakpoint somewhere in your ruby file (click on the left of the line you want to start debugging with, and there will be red dot). Then you can start doing things like "next" "step" "continue"
 
 
 
