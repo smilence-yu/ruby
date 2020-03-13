@@ -5,7 +5,7 @@
 3. `gem install ruby-debug-ide` in any terminal
 4. Search for "settings" in Help menu, and in the settings look for "Edit in settings.json", click on that
 5. Paste the following into front within the curly bracket of that json file:
-```python
+```JAVA
 "launch": {
     "version": "0.2.0",
     "configurations": [
